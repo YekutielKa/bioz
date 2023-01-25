@@ -1,0 +1,19 @@
+.content {
+  padding: 15px;
+  background-color: cornsilk;
+  text-align: center;
+}
+
+.options {
+  margin: auto;
+  padding: 5px;
+  width: 50px;
+  cursor: pointer;
+}
+
+.button {
+  width: 170px;
+  border-radius: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
